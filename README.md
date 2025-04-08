@@ -21,4 +21,8 @@ My collection of notes for NUS GE3238 GIS Design and Practices, taught in AY2425
 [Lab 3](labs/lab3.pdf)   
 
 #### Project Materials
-[AS2 Floorplans](images/as2) 
+[AS1 Floorplans](images/as1)   
+[AS2 Floorplans](images/as2)   
+[AS3 Floorplans](images/as3)   
+[AS4 Floorplans](images/as4)   
+[AS8 Floorplans](images/as8)   
