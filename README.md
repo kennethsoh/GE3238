@@ -21,6 +21,7 @@ My collection of notes for NUS GE3238 GIS Design and Practices, taught in AY2425
 [Lab 3](labs/lab3.pdf)   
 
 #### Project Materials
+[FASS Access Plan](iamges/FASS_access.pdf)
 [AS1 Floorplans](images/as1)   
 [AS2 Floorplans](images/as2)   
 [AS3 Floorplans](images/as3)   
