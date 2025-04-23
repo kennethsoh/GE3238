@@ -27,3 +27,4 @@ My collection of notes for NUS GE3238 GIS Design and Practices, taught in AY2425
 [AS3 Floorplans](images/as3)   
 [AS4 Floorplans](images/as4)   
 [AS8 Floorplans](images/as8)   
+[The Deck Floorplan](images/Deck-AS9.jpeg)   
